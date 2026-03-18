@@ -1,0 +1,15 @@
+{
+  "section": "python",
+  "category": "desktop",
+  "n": 3,
+  "title": "Health Dashboard",
+  "img": "healthDashboardScreen.png",
+  "desc": "OpenGL-powered health metrics dashboard with dynamic 3D body model selection and vitals tracking.",
+  "code": "https://github.com/Naadir-Dev-Portfolio/Health-Dashboard/blob/main/Ui_health.py",
+  "details": "https://github.com/Naadir-Dev-Portfolio/Health-Dashboard/blob/main/README.md",
+  "tags": [
+    "python",
+    "pyqt",
+    "opengl"
+  ]
+}
